@@ -29,8 +29,6 @@ I bridge the gap between complex backend systems and sleek, interactive front-en
 
 ### 🛠️ Tech Stack & Tools
 
-### 🛠️ Tech Stack & Tools
-
 <p align="left">
   <strong>Frontend & Animation</strong><br/>
   <a href="https://skillicons.dev">
@@ -54,25 +52,6 @@ I bridge the gap between complex backend systems and sleek, interactive front-en
 
 ---
 
-### 📊 Performance Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=madusha360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madusha360&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=madusha360&theme=tokyonight&no-bg=true&column=7" width="100%" />
-</div>
-
----
 
 ### 📬 Let's Connect
 
@@ -85,6 +64,4 @@ I bridge the gap between complex backend systems and sleek, interactive front-en
 
 <br />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
+
